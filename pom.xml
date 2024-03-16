@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>your.group.id</groupId>
-    <artifactId>your-artifact-id</artifactId>
+    <artifactId>HelloWorldApplication</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
@@ -28,6 +28,7 @@
     </dependencies>
 
     <build>
+        <finalName>HelloWorldApplication</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
