@@ -1,3 +1,3 @@
 mvn clean package
 
-java -jar target/HelloWorldApplication.jar
+java -jar HelloWorldApplication.jar
