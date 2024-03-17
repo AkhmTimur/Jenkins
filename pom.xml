@@ -7,7 +7,8 @@
     <groupId>your.group.id</groupId>
     <artifactId>HelloWorldApplication</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
+
 
     <parent>
         <groupId>org.springframework.boot</groupId>
